@@ -1,5 +1,7 @@
 # 👋 Hello Streamlit
 
+![Hello Streamlit](assets/hello-streamlit-banner.png)
+
 Este es un proyecto básico para comenzar a usar [Streamlit](https://streamlit.io), un framework que permite crear aplicaciones web interactivas con Python fácilmente.
 
 ## 🚀 Cómo ejecutarlo
@@ -7,7 +9,7 @@ Este es un proyecto básico para comenzar a usar [Streamlit](https://streamlit.i
 1. Cloná el repositorio:
 
 ```bash
-git clone https://github.com/tu_usuario/Hello-Streamlit.git
+git clone https://github.com/javiermorron/Hello-Streamlit.git
 cd Hello-Streamlit
 ```
 
