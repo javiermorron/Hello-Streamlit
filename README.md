@@ -30,3 +30,8 @@ streamlit run app.py
 - Muestra un mensaje de bienvenida.
 - Pide tu nombre y te responde.
 - Incluye un slider interactivo.
+
+<video width="100%" controls>
+  <source src="assets/Hello-Streamlit.mp4" type="video/mp4">
+  Tu navegador no soporta el elemento video.
+</video>
