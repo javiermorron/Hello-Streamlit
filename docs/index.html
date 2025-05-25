@@ -2,13 +2,35 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Demo Streamlit</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Demo Hello Streamlit</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 2em;
+      background-color: #f9f9f9;
+    }
+    h1 {
+      color: #333;
+    }
+    iframe {
+      max-width: 100%;
+      border-radius: 8px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    }
+  </style>
 </head>
 <body>
-  <h1>Demo de Hello Streamlit</h1>
-  <video width="100%" controls>
-    <source src="../assets/Hello-Streamlit.mp4" type="video/mp4">
-    Tu navegador no soporta el elemento video.
-  </video>
+  <h1>🎥 Demo de la app: Hello Streamlit</h1>
+  <p>Una app interactiva creada con Python + Streamlit</p>
+  <iframe width="800" height="450"
+    src="https://www.youtube.com/embed/hSjk6zluuNA"
+    title="Hello Streamlit Demo"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
 </body>
 </html>
+
