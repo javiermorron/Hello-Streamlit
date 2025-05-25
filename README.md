@@ -4,6 +4,16 @@
 
 Este es un proyecto básico para comenzar a usar [Streamlit](https://streamlit.io), un framework que permite crear aplicaciones web interactivas con Python fácilmente.
 
+---
+
+## 🎥 Demo en video
+
+👉 [Haz clic aquí para ver la demo en acción](https://javiermorron.github.io/Hello-Streamlit/)
+
+> El video se renderiza en GitHub Pages, ya que GitHub no permite reproducir videos `.mp4` directamente en el `README.md`.
+
+---
+
 ## 🚀 Cómo ejecutarlo
 
 1. Cloná el repositorio:
