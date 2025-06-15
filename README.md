@@ -8,7 +8,7 @@ Este es un proyecto básico para comenzar a usar [Streamlit](https://streamlit.i
 
 ## 🎥 Demo en video
 
-👉 [Haz clic aquí para ver la demo en acción](https://javiermorron.github.io/Hello-Streamlit/)
+👉 [Haz clic aquí para ver la demo en acción](https://hello-app-hpk4tm7axqoticcdcccwfs.streamlit.app/)
 
 > El video se renderiza en GitHub Pages, ya que GitHub no permite reproducir videos `.mp4` directamente en el `README.md`.
 
